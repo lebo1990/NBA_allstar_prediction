@@ -4,8 +4,11 @@ Almost 24000 NBA players(1980 - 2007) data(23 player stats for everyone) are col
 Three main files to run
 
   allstar_prediction.m
+  
   allstar_prediction_PCA.m
+  
   allstar_prediction_selecting_Lambda.m
+  
   
 Three-layers neural network is trained to predict the allstar players, the accuracy is about 88%. (possible reason is allstar players are voted by people, mainly considering player stats as well as fame and so on)
 
