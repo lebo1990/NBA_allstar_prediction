@@ -1,7 +1,7 @@
 # NBA_allstar_prediction
 Almost 24000 NBA players(1980 - 2007) data(23 player stats for everyone) are collected to predict the allstar players.
 
-Three main files to run
+Three main files to run:
 
     allstar_prediction.m
   
