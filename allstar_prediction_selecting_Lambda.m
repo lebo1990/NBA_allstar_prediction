@@ -102,7 +102,7 @@ figure();
 plot(lambda_vec, loss_train, lambda_vec, loss_val);
 legend('Train', 'Cross Validation');
 xlabel('lambda');
-ylabel('Error');
+ylabel('');
 
 fprintf('Lambda \t Traing set prediction \t cross validation set prediction\n');
 for i = 1: length(lambda_vec)
